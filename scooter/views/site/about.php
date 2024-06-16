@@ -1,11 +1,12 @@
 <?php
-/** @var yii\web\View $this */
+/**  @var yii\web\View  $this */
 
-$this->title = 'Магазин экстримального вида спорта';
+$this->title = 'Магазин экстримальных видов спорта';
 ?>
 
 
 <!-- breadcrumb part start-->
+
 <section class="breadcrumb_part">
     <div class="container">
         <div class="row">
